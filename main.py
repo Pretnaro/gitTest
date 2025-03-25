@@ -1,3 +1,10 @@
-print("izvirno")
+def main():
+    login()
+    BlackJack()
+    Ruleta()
+    Slots()
+    Poker()
+    HorseRaces()
 
-1+2
+def BlackJack():
+    
